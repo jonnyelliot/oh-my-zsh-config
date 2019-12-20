@@ -1,0 +1,6 @@
+- Install oh my zsh manually
+- `cp .zshrc ~`
+- `cp -r .oh-my-zsh/custom/* ~/.oh-my-zsh/custom`
+- Install z-zsh `git clone https://github.com/agkozak/zsh-z $ZSH_CUSTOM/plugins/zsh-z`
+- Install Powerline fonts
+- Select font (Fira Code Mono)
