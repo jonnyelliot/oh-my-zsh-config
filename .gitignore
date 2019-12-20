@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.zshrc
+!.oh-my-zsh
+!.oh-my-zsh/custom
+!.oh-my-zsh/custom/*.zsh
+.oh-my-zsh/custom/proj-*.zsh

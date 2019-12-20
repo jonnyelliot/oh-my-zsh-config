@@ -1,0 +1,9 @@
+export ANDROID_SDK_ROOT="$HOME/Library/Android/sdk"
+# deprecated
+export ANDROID_HOME="$ANDROID_SDK_ROOT"
+export PATH="$PATH:$ANDROID_SDK_ROOT/emulator"
+export PATH="$PATH:$ANDROID_SDK_ROOT/build-tools/29.0.2"
+export PATH="$PATH:$ANDROID_SDK_ROOT/platform-tools"
+export PATH="$PATH:$ANDROID_SDK_ROOT/tools"
+export PATH="$PATH:$ANDROID_SDK_ROOT/tools/bin"
+export PATH="$PATH:$ANDROID_SDK_ROOT/tools/lib/x86_64"
